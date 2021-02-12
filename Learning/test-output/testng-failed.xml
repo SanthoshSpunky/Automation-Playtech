@@ -5,11 +5,9 @@
     <classes>
       <class name="com.practice.learning.TestCases">
         <methods>
-          <include name="verifyLegalAge"/>
           <include name="tearDown"/>
           <include name="getDriver"/>
           <include name="validateNumberOfEmployees"/>
-          <include name="verifyLegalAge_GreaterThan18"/>
         </methods>
       </class> <!-- com.practice.learning.TestCases -->
     </classes>
